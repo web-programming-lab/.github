@@ -2,9 +2,9 @@
 
 Hier finden Sie die Links auf die git Repositories, die Sie im Verlaufe der Blockwoche verwenden werden.
 
-## Projekt
+## Projektinformationen
 
-* Alles zum [Projekt](https://github.com/web-programming-lab/web-programming-lab-projekt) im Web Programming Lab
+Alles zum [Projekt](https://github.com/web-programming-lab/web-programming-lab-projekt) im Web Programming Lab
 
 
 ## Programm der Blockwoche
