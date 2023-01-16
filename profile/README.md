@@ -1,8 +1,10 @@
 # Willkommen im Web Programming Lab
 
-Hier finden Sie die Links auf die git Repositories, die Sie im Verlaufe des Kurses verwenden werden.
+Hier finden Sie die Links auf die git Repositories, die Sie im Verlaufe der Blockwoche verwenden werden.
 
 ## Projekt
+
+* Alles zum [Projekt](https://github.com/web-programming-lab/web-programming-lab-projekt) im Web Programming Lab
 
 
 ## Programm
