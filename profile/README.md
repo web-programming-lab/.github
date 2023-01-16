@@ -1,6 +1,9 @@
 # Willkommen im Web Programming Lab
 
-Hier finden Sie alle git Repositories, die Sie im Verlaufe des Kurs verwenden werden.
+Hier finden Sie die Links auf die git Repositories, die Sie im Verlaufe des Kurses verwenden werden.
+
+## Projekt
+
 
 ## Programm
 
