@@ -7,7 +7,7 @@ Hier finden Sie die Links auf die git Repositories, welche Sie im Verlaufe der B
 Alles zum [Projekt](https://github.com/web-programming-lab/web-programming-lab-projekt) im Web Programming Lab
 
 
-## Programm der Blockwoche
+## Programm
 
 |                              Montag                              |          Dienstag         | Mittwoch |       Donnerstag       |          Freitag          |
 |:----------------------------------------------------------------:|:-------------------------:|:--------:|:----------------------:|:-------------------------:|
