@@ -1,6 +1,6 @@
 # Web Programming Lab
 
-Hier finden Sie die Links auf die git Repositories, die Sie im Verlaufe der Blockwoche verwenden werden.
+Hier finden Sie die Links auf die git Repositories, welche Sie im Verlaufe der Blockwoche verwenden werden.
 
 ## Projektinformationen
 
