@@ -4,7 +4,7 @@ Hier finden Sie die Links auf die git Repositories, welche Sie im Verlaufe der B
 
 ## Projektinformationen
 
-Alles zum [Projekt](https://github.com/web-programming-lab/web-programming-lab-projekt) im Web Programming Lab
+[Hier](https://github.com/web-programming-lab/web-programming-lab-projekt) finden Sie alle Informationen zum Projekt vom Web Programming Lab.
 
 
 ## Programm
