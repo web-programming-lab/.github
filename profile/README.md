@@ -6,5 +6,5 @@ Hier finden Sie alle git Repositories, die Sie im Verlaufe des Kurs verwenden we
 
 |                              Montag                              |          Dienstag         | Mittwoch |       Donnerstag       |          Freitag          |
 |:----------------------------------------------------------------:|:-------------------------:|:--------:|:----------------------:|:-------------------------:|
-| Architekturansätze von Webanwendungen  [JavaScript Sprachkonzepte](https://github.com/web-programming-lab/javascript-sprachkonzepte) | [Client-Side JavaScript I](https://github.com/web-programming-lab/javascript-clientside)  | Angular  | Angular                | Progressive Web Apps      |
+| Architekturansätze von Webanwendungen  [JavaScript Sprachkonzepte](https://github.com/web-programming-lab/javascript-sprachkonzepte) | [Client-Side JavaScript I](https://github.com/web-programming-lab/javascript-clientside)  | Angular  | Angular                | [Progressive Web Apps](https://github.com/web-programming-lab/pwa-offline)      |
 | [JavaScript Sprachkonzepte](https://github.com/web-programming-lab/javascript-sprachkonzepte)                                        | Client-Side JavaScript II | Angular  | [Server-Side JavaScript](https://github.com/web-programming-lab/nodejs-intro) | Authentication @ Web Apps |
