@@ -1,4 +1,4 @@
-# Willkommen im Web Programming Lab
+# Web Programming Lab
 
 Hier finden Sie die Links auf die git Repositories, die Sie im Verlaufe der Blockwoche verwenden werden.
 
