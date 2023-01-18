@@ -9,7 +9,7 @@ Hier finden Sie die Links auf git Repositories, welche Sie im Verlaufe der Block
 
 ## Programm
 
-Für jeden Tag finden unten die dazugehörigen Repositories mit Code-Snippets und Übungen.
+In der nachfolgenden Tabelle finden Sie die Links auf die passenden Repositories mit Code-Snippets aus den Slides und entsprechenden Übungen.
 
 |                              Montag                              |          Dienstag         | Mittwoch |       Donnerstag       |          Freitag          |
 |:----------------------------------------------------------------:|:-------------------------:|:--------:|:----------------------:|:-------------------------:|
