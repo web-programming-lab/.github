@@ -1,7 +1,5 @@
 # Web Programming Lab
 
-Hier finden Sie die Links auf git Repositories, welche Sie im Verlaufe der Blockwoche verwenden werden.
-
 ## Projektinformationen
 
 [Hier](https://github.com/web-programming-lab/web-programming-lab-projekt) finden Sie alle Informationen zum Projekt vom Web Programming Lab.
