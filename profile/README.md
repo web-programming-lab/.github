@@ -7,7 +7,7 @@
 
 ## Programm
 
-In der nachfolgenden Tabelle finden Sie die Links auf die passenden Repositories mit Code-Snippets aus den Slides und entsprechenden Übungen.
+In der nachfolgenden Tabelle finden Sie die Links auf die passenden Repositories mit Code-Snippets und entsprechenden Übungen aus den Slides .
 
 |                              Montag                              |          Dienstag         | Mittwoch |       Donnerstag       |          Freitag          |
 |:----------------------------------------------------------------:|:-------------------------:|:--------:|:----------------------:|:-------------------------:|
